@@ -129,7 +129,7 @@ body {
     }
     
     .apresentacao{
-        flex-direction: column-reverse;
+        flex-direction: column;
         padding: 5%;
     }
     
